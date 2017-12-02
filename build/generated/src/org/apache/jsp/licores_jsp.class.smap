@@ -1,0 +1,18 @@
+SMAP
+licores_jsp.java
+JSP
+*S JSP
+*F
++ 0 licores.jsp
+licores.jsp
++ 1 conexion.jsp
+conexion.jsp
+*L
+5:50
+5#1,10:51
+16,14:62
+29,12:76
+6#0,15:87
+21,19:103
+39,74:122
+*E
